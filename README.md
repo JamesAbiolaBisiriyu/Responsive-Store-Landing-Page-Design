@@ -1,3 +1,4 @@
+[Responsive Store Landing Page](http://jfvse.me/Responsive-Store-Landing-Page-Design/)
 ### FitStyle Sportswear - E-commerce Landing Page
 # A responsive, modern e-commerce landing page for a premium sportswear brand, built with Bootstrap 5 and custom CSS.
 
